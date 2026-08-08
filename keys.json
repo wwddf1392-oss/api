@@ -5,6 +5,12 @@
         "max_devices": 1,
         "used_devices": [],
         "status": "نشط"
+    },
+    "CLIENT-VIP": {
+        "created_at": "2026-08-08 06:10:00",
+        "expires_at": "2027-08-08 06:10:00",
+        "max_devices": "unlimited",
+        "used_devices": [],
+        "status": "نشط"
     }
 }
-
